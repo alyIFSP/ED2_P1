@@ -1,0 +1,13 @@
+1 - criar um menu para escolher qual método de ordenação(BubbleSort, InsertionSort, SelectionSort, ShellSort, MergeSort, QuickSort, HeapSort,
+RadixSort (somente LSD), CountigSort e TimSort).
+
+2- redirecionar o usuário para outro menu com a escolha da quantidade de elementos(1.000,
+5.000, 10.000, 20.000, 50.000 e 100.000).
+
+3- criar um vetor dinâmico com a quantidade de elementos selecionada e outro com 10 posições para marcar o tempo posteriormente.
+
+3.1- criar uma variável para marcar o tempo no melhor caso e outra no pior caso.
+
+4- o vetor dos elementos deve ser alocado, ordenado e seu tempo de ordenação salvo no vetor de tempo. Esse processo deve se repetir 10 vezes, liberando e e realocando elementos no v1 e salvando o tempo da nova alocação no v2.
+
+5- Após isso, o algoritmo deve rodar em um vetor já ordenado(melhor caso), e em um vetor ordenado em ordem decrescente(pior caso). Seus tempos devem ser salvos em suas respectivas variáveis. (métodos dos dois no slide).
