@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1697383267 source:c:\users\aly_v\onedrive\Área de trabalho\pastas_do_desktop\ifsp-análise e desenvolvimento de sistemas\3º período\estrutura_de_dados_2\atividades\projeto1\desempenhodealgoritmos.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"DesempenhoDeAlgoritmos.h"
+
+1697387833 c:\users\aly_v\onedrive\Área de trabalho\pastas_do_desktop\ifsp-análise e desenvolvimento de sistemas\3º período\estrutura_de_dados_2\atividades\projeto1\desempenhodealgoritmos.h
+
+1697389255 source:c:\users\aly_v\onedrive\Área de trabalho\pastas_do_desktop\ifsp-análise e desenvolvimento de sistemas\3º período\estrutura_de_dados_2\atividades\projeto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"DesempenhoDeAlgoritmos.h"
+
